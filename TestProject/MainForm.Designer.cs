@@ -1,7 +1,7 @@
 ﻿
 namespace TestProject
 {
-    partial class MainForm
+    partial class Klimenko
     {
         /// <summary>
         /// Обязательная переменная конструктора.
@@ -31,6 +31,7 @@ namespace TestProject
         {
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.volkovButton = new System.Windows.Forms.Button();
+            this.klimenkoButton = new System.Windows.Forms.Button();
             this.tableLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -42,6 +43,7 @@ namespace TestProject
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel1.Controls.Add(this.volkovButton, 0, 0);
+            this.tableLayoutPanel1.Controls.Add(this.klimenkoButton, 1, 0);
             this.tableLayoutPanel1.Location = new System.Drawing.Point(13, 13);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 5;
@@ -63,13 +65,23 @@ namespace TestProject
             this.volkovButton.UseVisualStyleBackColor = true;
             this.volkovButton.Click += new System.EventHandler(this.VolkovButton_Click);
             // 
-            // MainForm
+            // klimenkoButton
+            // 
+            this.klimenkoButton.Location = new System.Drawing.Point(159, 3);
+            this.klimenkoButton.Name = "klimenkoButton";
+            this.klimenkoButton.Size = new System.Drawing.Size(75, 23);
+            this.klimenkoButton.TabIndex = 1;
+            this.klimenkoButton.Text = "Клименко";
+            this.klimenkoButton.UseVisualStyleBackColor = true;
+            this.klimenkoButton.Click += new System.EventHandler(this.klimenkoButton_Click);
+            // 
+            // Klimenko
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(650, 324);
             this.Controls.Add(this.tableLayoutPanel1);
-            this.Name = "MainForm";
+            this.Name = "Klimenko";
             this.Text = "Главная форма";
             this.tableLayoutPanel1.ResumeLayout(false);
             this.ResumeLayout(false);
@@ -80,6 +92,7 @@ namespace TestProject
 
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
         private System.Windows.Forms.Button volkovButton;
+        private System.Windows.Forms.Button klimenkoButton;
     }
 }
 

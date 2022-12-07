@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\TestProject-main\TestProject\obj\Debug\TestProject.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TestProject-main\TestProject\obj\Debug\TestProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\TestProject-main\TestProject\obj\Debug\TestProject.Forms.VolkovForm.resources
+C:\Users\Admin\source\repos\TestProject-main\TestProject\obj\Debug\TestProject.Forms.klimenkoForm.resources
+C:\Users\Admin\source\repos\TestProject-main\TestProject\obj\Debug\TestProject.Klimenko.resources
+C:\Users\Admin\source\repos\TestProject-main\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\Admin\source\repos\TestProject-main\TestProject\obj\Debug\TestProject.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TestProject-main\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TestProject-main\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\Admin\source\repos\TestProject-main\TestProject\bin\Debug\TestProject.exe
+C:\Users\Admin\source\repos\TestProject-main\TestProject\bin\Debug\TestProject.pdb
+C:\Users\Admin\source\repos\TestProject-main\TestProject\obj\Debug\TestProject.exe
+C:\Users\Admin\source\repos\TestProject-main\TestProject\obj\Debug\TestProject.pdb

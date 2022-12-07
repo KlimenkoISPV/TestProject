@@ -11,9 +11,9 @@ using TestProject.Forms;
 
 namespace TestProject
 {
-    public partial class MainForm : Form
+    public partial class Klimenko : Form
     {
-        public MainForm()
+        public Klimenko()
         {
             InitializeComponent();
         }
@@ -23,5 +23,13 @@ namespace TestProject
             VolkovForm form = new VolkovForm();
             form.ShowDialog();
         }
+
+        private void klimenkoButton_Click(object sender, EventArgs e)
+        {
+            klimenkoForm form = new klimenkoForm();
+            form.ShowDialog(); 
+        }
+
+         
     }
 }
